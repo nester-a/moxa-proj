@@ -21,6 +21,7 @@ export default {
   font-family: 'Bai Jamjuree';
   src: url(@/fonts/BaiJamjuree-Regular.ttf);
 }
+
 #app {
   position: relative;
   width: 1440px;
